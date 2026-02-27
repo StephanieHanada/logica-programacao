@@ -9,6 +9,8 @@ Curso de Lógica de Programação em Python
              Criação de código executável em .sh.
     - Aula 3 - Git
              Hospedagem dos documentos no Github.
-             Como executar o arquivo .sh: ./calculadora.sh
+             Como executar o arquivo .sh:
+                  chmod +x calculadora.sh
+                  ./calculadora.sh
              
     
