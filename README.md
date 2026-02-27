@@ -1,7 +1,7 @@
 # logica-programacao
 Curso de Lógica de Programação em Python
 
-##Módulos:
+## Módulos:
   - Módulo 1: Lógica de Programação e Automação de Tarefas
     Aula 1 - Python
              Criação de código simples em Python.
